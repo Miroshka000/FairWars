@@ -1,0 +1,6 @@
+name: FairWars
+main: miroshka.FairWars
+version: "1.0"
+author: Miroshka
+api: ["1.0.0"]
+description: plugin

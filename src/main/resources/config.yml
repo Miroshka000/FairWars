@@ -1,0 +1,30 @@
+kblevel: 3 #level of kb enchant for kb stick
+arena:
+  beds: 10 #bed count for each player in game
+  red: #red spawn pos
+    x: 22
+    y: 8
+    z: 5
+  blue: #blue spawn pos
+    x: -6
+    y: 8
+    z: 5
+prefix: "§l§6FairWars §r§7| §r"
+help: "Начать игру в FairWars!"
+chooseOption: "Выберите опцию:"
+startMatch: "Начать матч FairWars"
+exitMatch: "Выйти из матча"
+closedForm: "Вы закрыли форму, не выбрав опцию."
+youLose: "Вы проиграли!"
+victory: "§l§eПобеда"
+queueJoined: "Вы присоединились к очереди"
+alreadyInQueue: "Вы уже в очереди."
+notInQueue: "Вы не в очереди!"
+queueLeft: "Вы покинули очередь!"
+againstPlayer: "Вы сражаетесь против "
+redBedBroken: "§cКровать Красных разрушена!"
+blueBedBroken: "§9Кровать Синих разрушена!"
+ownBedBreakError: "Вы не можете разрушить свою кровать!"
+gameStarted: "Игра началась!"
+youAreFightingAgainst: "Вы Боретесь Против: "
+
